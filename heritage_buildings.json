@@ -15,6 +15,42 @@
         "Baerende_Fredningsvaerdier": null
       },
       {
+        "BFE": 2627693,
+        "Recno": 205013,
+        "Ejendomsnummer": 138818238,
+        "Betegnelse": "Svanevej 8",
+        "Status": "Aktiv",
+        "Beliggenhed": "Svanevej 8",
+        "Kommunenavn": "Assens",
+        "Omfang": null,
+        "Link_till_FBB": "https://www.kulturarv.dk/fbb/sagvis.pub?sag=138818239",
+        "Baerende_Fredningsvaerdier": null
+      },
+      {
+        "BFE": 2095011,
+        "Recno": 205014,
+        "Ejendomsnummer": 138705751,
+        "Betegnelse": "Geelsvej 10",
+        "Status": "Aktiv",
+        "Beliggenhed": "Geelsvej 10",
+        "Kommunenavn": "Rudersdal",
+        "Omfang": "Huset med mur samt omgivende have (1954 af Arne Jacobsen). Fredet 2026.",
+        "Link_till_FBB": "https://kulturarv.dk/fbb/sagvis.pub?sag=138705751",
+        "Baerende_Fredningsvaerdier": "Til de bærende fredningsværdier hører blandt andet husets usædvanlige udformning og ydre geometri og samspillet med og indpasningen i det omkringliggende terræn. Hertil kommer den åbne forhave og den skulpturelle murskive i samspil med bøgehækken.Indvendigt er den primære bærende værdi den bevarede planløsning og de dynamiske rumforløb. Dertil kommer den velbevarede materialeholdning med alle ældre bygningsdele og detaljer, herunder badeværelser og køkken, trapper med værn, trægulve af bøgeparket og det ildfaste gulv med gule tegl, indbyggede forrammeskabe med greb samt vinduer og glatte døre med greb af bakelit."
+      },
+      {
+        "BFE": 2291128,
+        "Recno": 205015,
+        "Ejendomsnummer": 138705623,
+        "Betegnelse": "Knud Rasmussens Hus",
+        "Status": "Aktiv",
+        "Beliggenhed": "Knud Rasmussensvej 9A",
+        "Kommunenavn": "Halsnæs",
+        "Omfang": "Sommerhuset med garagebygning og vandpost (1917 af Helge Bojsen-Møller). Fredet 2026",
+        "Link_till_FBB": "https://kulturarv.dk/fbb/sagvis.pub?sag=138705623",
+        "Baerende_Fredningsvaerdier": null
+      },
+      {
         "BFE": 100025709,
         "Recno": 202295,
         "Ejendomsnummer": 26912754,
